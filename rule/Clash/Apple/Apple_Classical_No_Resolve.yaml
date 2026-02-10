@@ -1,15 +1,15 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-30 02:12:14
-# DOMAIN: 10
+# UPDATED: 2026-02-10 02:18:44
+# DOMAIN: 9
 # DOMAIN-KEYWORD: 7
-# DOMAIN-SUFFIX: 1549
+# DOMAIN-SUFFIX: 1550
 # IP-CIDR: 10
+# IP-CIDR6: 3
 # PROCESS-NAME: 13
-# TOTAL: 1589
+# TOTAL: 1592
 payload:
-  - DOMAIN,appldnld.apple.com.edgesuite.net
   - DOMAIN,apple-events.akamaized.net
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,appl.com
   - DOMAIN-SUFFIX,appl4e.com
   - DOMAIN-SUFFIX,appla.com
+  - DOMAIN-SUFFIX,appldnld.apple.com.edgesuite.net
   - DOMAIN-SUFFIX,apple-darwin.com
   - DOMAIN-SUFFIX,apple-darwin.net
   - DOMAIN-SUFFIX,apple-darwin.org
@@ -1585,6 +1586,9 @@ payload:
   - IP-CIDR,205.180.175.0/24,no-resolve
   - IP-CIDR,63.92.224.0/19,no-resolve
   - IP-CIDR,65.199.22.0/23,no-resolve
+  - IP-CIDR6,2403:300::/32,no-resolve
+  - IP-CIDR6,2620:149::/32,no-resolve
+  - IP-CIDR6,2a01:b740::/32,no-resolve
   - PROCESS-NAME,CoreLocationAgent
   - PROCESS-NAME,WeatherWidget
   - PROCESS-NAME,apsd
