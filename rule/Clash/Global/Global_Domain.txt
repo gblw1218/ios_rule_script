@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-24 02:24:00
+# UPDATED: 2026-03-04 02:17:25
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32851
+# DOMAIN-SUFFIX: 32874
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33122
+# TOTAL: 33145
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -735,6 +735,7 @@ login.microsoftonline.com
 .aboutamazon.it
 .aboutamazon.jp
 .aboutamazon.pl
+.aboutamazon.sg
 .aboutfacebook.com
 .aboutgfw.com
 .aboutmcdonalds.com
@@ -1656,21 +1657,32 @@ login.microsoftonline.com
 .amazon-launchpad.com
 .amazon.ae
 .amazon.ca
+.amazon.cl
 .amazon.co.uk
+.amazon.co.za
 .amazon.com.au
+.amazon.com.be
 .amazon.com.br
+.amazon.com.co
 .amazon.com.mx
+.amazon.com.ng
 .amazon.com.tr
 .amazon.de
 .amazon.dev
+.amazon.eg
 .amazon.es
 .amazon.fr
+.amazon.ie
 .amazon.in
 .amazon.it
 .amazon.jobs
 .amazon.jp
+.amazon.lu
 .amazon.nl
+.amazon.pl
 .amazon.red
+.amazon.sa
+.amazon.se
 .amazon.sg
 .amazonalexavoxcon.com
 .amazonauthorinsights.com
@@ -2819,6 +2831,7 @@ login.microsoftonline.com
 .awsthinkbox.com
 .awstrack.me
 .awstrust.com
+.awswaf.com
 .awwcn.buzz
 .awwcn.xyz
 .awxcdn.com
@@ -5782,7 +5795,6 @@ login.microsoftonline.com
 .classics.ac.uk
 .classymomsex.com
 .claude.ai
-.claude.com
 .claudemcpclient.com
 .claudeusercontent.com
 .clc-london.ac.uk
@@ -13230,6 +13242,7 @@ login.microsoftonline.com
 .jav.la
 .jav.land
 .jav.place
+.jav.sb
 .jav.si
 .jav.wine
 .jav01.cc
@@ -13293,6 +13306,7 @@ login.microsoftonline.com
 .javher.com
 .javheroine.com
 .javhihi.com
+.javhub.com
 .javhub.me
 .javidol.org
 .javjack.com
@@ -13326,6 +13340,7 @@ login.microsoftonline.com
 .javpub.me
 .javpush.com
 .javqd.com
+.javquick.com
 .javrank.com
 .javrate.com
 .javrave.club
@@ -14929,7 +14944,6 @@ login.microsoftonline.com
 .mantochichi.com
 .manufacturingedc.ac.uk
 .manurefetish.com
-.manus.im
 .manuscdn.com
 .manytoon.com
 .manyvids.com
@@ -15868,6 +15882,8 @@ login.microsoftonline.com
 .mitnaka.com
 .mitpressjournals.org
 .mixasiansex.com
+.mixi.co.jp
+.mixi.net
 .mixlr.com
 .mixmaturesex.com
 .mixvintagesex.com
@@ -18090,6 +18106,7 @@ login.microsoftonline.com
 .pa9pal.com
 .paaypal.com
 .pacifickitchenandhome.com
+.packagecloud.io
 .packaging-cadcam.com
 .packagingcadcam.com
 .packagist.org
@@ -20651,6 +20668,7 @@ login.microsoftonline.com
 .search25.ac.uk
 .seas.ac.uk
 .seasidestory.tokyo
+.seattlespheres.com
 .secom.co.jp
 .secomtrust.net
 .second-ns.com
@@ -25355,6 +25373,7 @@ login.microsoftonline.com
 .xiaoou.tv
 .xiaoshuobb.life
 .xiaoyaoge.xyz
+.xie56.xyz
 .xinaia-av.buzz
 .xindelu.com
 .xinfhw.com
@@ -25908,6 +25927,7 @@ login.microsoftonline.com
 .yandexcloud.net
 .yandexcom.net
 .yandexmetrica.com
+.yandexwebcache.net
 .yandexwebcache.org
 .yaohubaba.com
 .yaoimangaonline.com
@@ -27561,6 +27581,7 @@ login.microsoftonline.com
 .cl.ly
 .clarionproject.org
 .classicalguitarblog.net
+.claude.com
 .clb.org.hk
 .cleansite.biz
 .cleansite.info
@@ -28414,6 +28435,7 @@ login.microsoftonline.com
 .freechinaforum.org
 .freechinaweibo.com
 .freedl.org
+.freedom.gov
 .freedomchina.info
 .freedomcollection.org
 .freedomhongkong.org
@@ -29809,6 +29831,7 @@ login.microsoftonline.com
 .mansion.com
 .mansionpoker.com
 .manta.com
+.manus.im
 .manyvoices.news
 .maplew.com
 .marc.info

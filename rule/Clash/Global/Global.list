@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-24 02:24:00
+# UPDATED: 2026-03-04 02:17:25
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32851
+# DOMAIN-SUFFIX: 32874
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33122
+# TOTAL: 33145
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -735,6 +735,7 @@ DOMAIN-SUFFIX,aboutamazon.in
 DOMAIN-SUFFIX,aboutamazon.it
 DOMAIN-SUFFIX,aboutamazon.jp
 DOMAIN-SUFFIX,aboutamazon.pl
+DOMAIN-SUFFIX,aboutamazon.sg
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,aboutgfw.com
 DOMAIN-SUFFIX,aboutmcdonalds.com
@@ -1656,21 +1657,32 @@ DOMAIN-SUFFIX,amazon-lantern.com
 DOMAIN-SUFFIX,amazon-launchpad.com
 DOMAIN-SUFFIX,amazon.ae
 DOMAIN-SUFFIX,amazon.ca
+DOMAIN-SUFFIX,amazon.cl
 DOMAIN-SUFFIX,amazon.co.uk
+DOMAIN-SUFFIX,amazon.co.za
 DOMAIN-SUFFIX,amazon.com.au
+DOMAIN-SUFFIX,amazon.com.be
 DOMAIN-SUFFIX,amazon.com.br
+DOMAIN-SUFFIX,amazon.com.co
 DOMAIN-SUFFIX,amazon.com.mx
+DOMAIN-SUFFIX,amazon.com.ng
 DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,amazon.eg
 DOMAIN-SUFFIX,amazon.es
 DOMAIN-SUFFIX,amazon.fr
+DOMAIN-SUFFIX,amazon.ie
 DOMAIN-SUFFIX,amazon.in
 DOMAIN-SUFFIX,amazon.it
 DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazon.jp
+DOMAIN-SUFFIX,amazon.lu
 DOMAIN-SUFFIX,amazon.nl
+DOMAIN-SUFFIX,amazon.pl
 DOMAIN-SUFFIX,amazon.red
+DOMAIN-SUFFIX,amazon.sa
+DOMAIN-SUFFIX,amazon.se
 DOMAIN-SUFFIX,amazon.sg
 DOMAIN-SUFFIX,amazonalexavoxcon.com
 DOMAIN-SUFFIX,amazonauthorinsights.com
@@ -2819,6 +2831,7 @@ DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,awwcn.buzz
 DOMAIN-SUFFIX,awwcn.xyz
 DOMAIN-SUFFIX,awxcdn.com
@@ -5782,7 +5795,6 @@ DOMAIN-SUFFIX,classicnike.com
 DOMAIN-SUFFIX,classics.ac.uk
 DOMAIN-SUFFIX,classymomsex.com
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,clc-london.ac.uk
@@ -13230,6 +13242,7 @@ DOMAIN-SUFFIX,jav.guru
 DOMAIN-SUFFIX,jav.la
 DOMAIN-SUFFIX,jav.land
 DOMAIN-SUFFIX,jav.place
+DOMAIN-SUFFIX,jav.sb
 DOMAIN-SUFFIX,jav.si
 DOMAIN-SUFFIX,jav.wine
 DOMAIN-SUFFIX,jav01.cc
@@ -13293,6 +13306,7 @@ DOMAIN-SUFFIX,javhdporn.net
 DOMAIN-SUFFIX,javher.com
 DOMAIN-SUFFIX,javheroine.com
 DOMAIN-SUFFIX,javhihi.com
+DOMAIN-SUFFIX,javhub.com
 DOMAIN-SUFFIX,javhub.me
 DOMAIN-SUFFIX,javidol.org
 DOMAIN-SUFFIX,javjack.com
@@ -13326,6 +13340,7 @@ DOMAIN-SUFFIX,javprime.net
 DOMAIN-SUFFIX,javpub.me
 DOMAIN-SUFFIX,javpush.com
 DOMAIN-SUFFIX,javqd.com
+DOMAIN-SUFFIX,javquick.com
 DOMAIN-SUFFIX,javrank.com
 DOMAIN-SUFFIX,javrate.com
 DOMAIN-SUFFIX,javrave.club
@@ -14929,7 +14944,6 @@ DOMAIN-SUFFIX,mantan-web.jp
 DOMAIN-SUFFIX,mantochichi.com
 DOMAIN-SUFFIX,manufacturingedc.ac.uk
 DOMAIN-SUFFIX,manurefetish.com
-DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
@@ -15868,6 +15882,8 @@ DOMAIN-SUFFIX,miteam.com
 DOMAIN-SUFFIX,mitnaka.com
 DOMAIN-SUFFIX,mitpressjournals.org
 DOMAIN-SUFFIX,mixasiansex.com
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,mixlr.com
 DOMAIN-SUFFIX,mixmaturesex.com
 DOMAIN-SUFFIX,mixvintagesex.com
@@ -18090,6 +18106,7 @@ DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,pa9pal.com
 DOMAIN-SUFFIX,paaypal.com
 DOMAIN-SUFFIX,pacifickitchenandhome.com
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packaging-cadcam.com
 DOMAIN-SUFFIX,packagingcadcam.com
 DOMAIN-SUFFIX,packagist.org
@@ -20651,6 +20668,7 @@ DOMAIN-SUFFIX,search.ac.uk
 DOMAIN-SUFFIX,search25.ac.uk
 DOMAIN-SUFFIX,seas.ac.uk
 DOMAIN-SUFFIX,seasidestory.tokyo
+DOMAIN-SUFFIX,seattlespheres.com
 DOMAIN-SUFFIX,secom.co.jp
 DOMAIN-SUFFIX,secomtrust.net
 DOMAIN-SUFFIX,second-ns.com
@@ -25355,6 +25373,7 @@ DOMAIN-SUFFIX,xiaoou.io
 DOMAIN-SUFFIX,xiaoou.tv
 DOMAIN-SUFFIX,xiaoshuobb.life
 DOMAIN-SUFFIX,xiaoyaoge.xyz
+DOMAIN-SUFFIX,xie56.xyz
 DOMAIN-SUFFIX,xinaia-av.buzz
 DOMAIN-SUFFIX,xindelu.com
 DOMAIN-SUFFIX,xinfhw.com
@@ -25908,6 +25927,7 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,yaoimangaonline.com
@@ -27561,6 +27581,7 @@ DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,classicalguitarblog.net
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clb.org.hk
 DOMAIN-SUFFIX,cleansite.biz
 DOMAIN-SUFFIX,cleansite.info
@@ -28414,6 +28435,7 @@ DOMAIN-SUFFIX,freechina.news
 DOMAIN-SUFFIX,freechinaforum.org
 DOMAIN-SUFFIX,freechinaweibo.com
 DOMAIN-SUFFIX,freedl.org
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomchina.info
 DOMAIN-SUFFIX,freedomcollection.org
 DOMAIN-SUFFIX,freedomhongkong.org
@@ -29809,6 +29831,7 @@ DOMAIN-SUFFIX,manicur4ik.ru
 DOMAIN-SUFFIX,mansion.com
 DOMAIN-SUFFIX,mansionpoker.com
 DOMAIN-SUFFIX,manta.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,maplew.com
 DOMAIN-SUFFIX,marc.info
