@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:17:46
+# UPDATED: 2026-03-10 02:18:50
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6576
+# DOMAIN-SUFFIX: 6581
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6708
+# TOTAL: 6713
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -431,6 +431,7 @@ payload:
   - '+.archives.gov'
   - '+.arctosia.com'
   - '+.areca-backup.org'
+  - '+.arena.ai'
   - '+.arena.taipei'
   - '+.arethusa.su'
   - '+.arlingtoncemetery.mil'
@@ -444,6 +445,7 @@ payload:
   - '+.artsy.net'
   - '+.arunachalforests.gov.in'
   - '+.arvanstorage.ir'
+  - '+.arweave.org'
   - '+.asacp.org'
   - '+.asdfg.jp'
   - '+.asg.to'
@@ -1522,6 +1524,7 @@ payload:
   - '+.doujincafe.com'
   - '+.dowei.org'
   - '+.dowjones.com'
+  - '+.download.dappcdn.com'
   - '+.dphk.org'
   - '+.dpool.top'
   - '+.dpp.org.tw'
@@ -4827,6 +4830,7 @@ payload:
   - '+.shipcamouflage.com'
   - '+.shireyishunjian.com'
   - '+.shitaotv.org'
+  - '+.shitjournal.org'
   - '+.shixiao.org'
   - '+.shizhao.org'
   - '+.shkspr.mobi'
@@ -6219,6 +6223,7 @@ payload:
   - '+.wireguard.com'
   - '+.wisdompubs.org'
   - '+.wisevid.com'
+  - '+.wispbyte.com'
   - '+.wistia.com'
   - '+.witnessleeteaching.com'
   - '+.witopia.net'
