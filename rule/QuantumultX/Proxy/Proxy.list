@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-16 02:11:02
+# UPDATED: 2026-04-08 02:22:24
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7062
+# HOST-SUFFIX: 7073
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7212
+# TOTAL: 7223
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -184,6 +184,7 @@ HOST-SUFFIX,9to5mac.com,Proxy
 HOST-SUFFIX,a-normal-day.com,Proxy
 HOST-SUFFIX,a5.com.ru,Proxy
 HOST-SUFFIX,aamacau.com,Proxy
+HOST-SUFFIX,aave.com,Proxy
 HOST-SUFFIX,abc.com,Proxy
 HOST-SUFFIX,abc.net.au,Proxy
 HOST-SUFFIX,abc.pp.ru,Proxy
@@ -441,6 +442,7 @@ HOST-SUFFIX,appspot.com,Proxy
 HOST-SUFFIX,appsto.re,Proxy
 HOST-SUFFIX,aptoide.com,Proxy
 HOST-SUFFIX,arcgis.com,Proxy
+HOST-SUFFIX,archive-it.org,Proxy
 HOST-SUFFIX,archive.fo,Proxy
 HOST-SUFFIX,archive.is,Proxy
 HOST-SUFFIX,archive.li,Proxy
@@ -1195,6 +1197,7 @@ HOST-SUFFIX,chuizi.net,Proxy
 HOST-SUFFIX,churchinhongkong.org,Proxy
 HOST-SUFFIX,chushigangdrug.ch,Proxy
 HOST-SUFFIX,ci-en.jp,Proxy
+HOST-SUFFIX,cia.gov,Proxy
 HOST-SUFFIX,cici.com,Proxy
 HOST-SUFFIX,ciciai.com,Proxy
 HOST-SUFFIX,cienen.com,Proxy
@@ -1573,6 +1576,7 @@ HOST-SUFFIX,dmm.com,Proxy
 HOST-SUFFIX,dns-dns.com,Proxy
 HOST-SUFFIX,dns-stuff.com,Proxy
 HOST-SUFFIX,dns.google,Proxy
+HOST-SUFFIX,dns.sb,Proxy
 HOST-SUFFIX,dns04.com,Proxy
 HOST-SUFFIX,dns05.com,Proxy
 HOST-SUFFIX,dns1.us,Proxy
@@ -1592,6 +1596,7 @@ HOST-SUFFIX,docs.new,Proxy
 HOST-SUFFIX,doctorvoice.org,Proxy
 HOST-SUFFIX,documentingreality.com,Proxy
 HOST-SUFFIX,dogfartnetwork.com,Proxy
+HOST-SUFFIX,doh.sb,Proxy
 HOST-SUFFIX,dojin.com,Proxy
 HOST-SUFFIX,dok-forum.net,Proxy
 HOST-SUFFIX,dolc.de,Proxy
@@ -1610,6 +1615,7 @@ HOST-SUFFIX,doom9.org,Proxy
 HOST-SUFFIX,doosho.com,Proxy
 HOST-SUFFIX,doourbest.org,Proxy
 HOST-SUFFIX,dorjeshugden.com,Proxy
+HOST-SUFFIX,dot.sb,Proxy
 HOST-SUFFIX,dotgov.gov,Proxy
 HOST-SUFFIX,dotplane.com,Proxy
 HOST-SUFFIX,dotsub.com,Proxy
@@ -4432,8 +4438,10 @@ HOST-SUFFIX,oiktv.com,Proxy
 HOST-SUFFIX,oizoblog.com,Proxy
 HOST-SUFFIX,ok.ru,Proxy
 HOST-SUFFIX,okayfreedom.com,Proxy
+HOST-SUFFIX,okcoin.com,Proxy
 HOST-SUFFIX,okex.com,Proxy
 HOST-SUFFIX,okk.tw,Proxy
+HOST-SUFFIX,oklink.com,Proxy
 HOST-SUFFIX,okpool.me,Proxy
 HOST-SUFFIX,okx.com,Proxy
 HOST-SUFFIX,old-cat.net,Proxy
@@ -4511,6 +4519,7 @@ HOST-SUFFIX,orn.jp,Proxy
 HOST-SUFFIX,orzistic.org,Proxy
 HOST-SUFFIX,osfoora.com,Proxy
 HOST-SUFFIX,osha.gov,Proxy
+HOST-SUFFIX,osmand.net,Proxy
 HOST-SUFFIX,osxdaily.com,Proxy
 HOST-SUFFIX,otcbtc.com,Proxy
 HOST-SUFFIX,otnd.org,Proxy
@@ -6841,12 +6850,14 @@ HOST-SUFFIX,xm.com,Proxy
 HOST-SUFFIX,xml-training-guide.com,Proxy
 HOST-SUFFIX,xmovies.com,Proxy
 HOST-SUFFIX,xn--11xs86f.icu,Proxy
+HOST-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com,Proxy
 HOST-SUFFIX,xn--4gq171p.com,Proxy
 HOST-SUFFIX,xn--90wwvt03e.com,Proxy
 HOST-SUFFIX,xn--9iqy04a7fi01l.com,Proxy
 HOST-SUFFIX,xn--9pr62r24a.com,Proxy
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,Proxy
 HOST-SUFFIX,xn--i2ru8q2qg.com,Proxy
+HOST-SUFFIX,xn--kcrv3utim32hx9f6qe.com,Proxy
 HOST-SUFFIX,xn--ngstr-lra8j.com,Proxy
 HOST-SUFFIX,xn--noss43i.com,Proxy
 HOST-SUFFIX,xn--oiq.cc,Proxy

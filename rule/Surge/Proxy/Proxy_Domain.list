@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-16 02:11:02
+# UPDATED: 2026-04-08 02:22:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6582
+# DOMAIN-SUFFIX: 6593
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6722
+# TOTAL: 6733
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -162,6 +162,7 @@
 .a-normal-day.com
 .a5.com.ru
 .aamacau.com
+.aave.com
 .abc.com
 .abc.net.au
 .abc.pp.ru
@@ -409,6 +410,7 @@
 .appsto.re
 .aptoide.com
 .arcgis.com
+.archive-it.org
 .archive.fo
 .archive.is
 .archive.li
@@ -1094,6 +1096,7 @@
 .churchinhongkong.org
 .chushigangdrug.ch
 .ci-en.jp
+.cia.gov
 .cici.com
 .ciciai.com
 .cienen.com
@@ -1464,6 +1467,7 @@
 .dmm.com
 .dns-dns.com
 .dns-stuff.com
+.dns.sb
 .dns04.com
 .dns05.com
 .dns1.us
@@ -1483,6 +1487,7 @@
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
+.doh.sb
 .dojin.com
 .dok-forum.net
 .dolc.de
@@ -1500,6 +1505,7 @@
 .doosho.com
 .doourbest.org
 .dorjeshugden.com
+.dot.sb
 .dotgov.gov
 .dotplane.com
 .dotsub.com
@@ -4017,8 +4023,10 @@
 .oizoblog.com
 .ok.ru
 .okayfreedom.com
+.okcoin.com
 .okex.com
 .okk.tw
+.oklink.com
 .okpool.me
 .okx.com
 .old-cat.net
@@ -4094,6 +4102,7 @@
 .orzistic.org
 .osfoora.com
 .osha.gov
+.osmand.net
 .osxdaily.com
 .otcbtc.com
 .otnd.org
@@ -6353,12 +6362,14 @@
 .xml-training-guide.com
 .xmovies.com
 .xn--11xs86f.icu
+.xn--1jqvh729avzfcy2d8ummib.com
 .xn--4gq171p.com
 .xn--90wwvt03e.com
 .xn--9iqy04a7fi01l.com
 .xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--i2ru8q2qg.com
+.xn--kcrv3utim32hx9f6qe.com
 .xn--ngstr-lra8j.com
 .xn--noss43i.com
 .xn--oiq.cc

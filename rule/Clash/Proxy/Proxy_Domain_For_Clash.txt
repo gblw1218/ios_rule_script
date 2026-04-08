@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-16 02:11:02
+# UPDATED: 2026-04-08 02:22:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6582
+# DOMAIN-SUFFIX: 6593
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6714
+# TOTAL: 6725
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -170,6 +170,7 @@ voice.telephony.goog
 +.a-normal-day.com
 +.a5.com.ru
 +.aamacau.com
++.aave.com
 +.abc.com
 +.abc.net.au
 +.abc.pp.ru
@@ -417,6 +418,7 @@ voice.telephony.goog
 +.appsto.re
 +.aptoide.com
 +.arcgis.com
++.archive-it.org
 +.archive.fo
 +.archive.is
 +.archive.li
@@ -1102,6 +1104,7 @@ voice.telephony.goog
 +.churchinhongkong.org
 +.chushigangdrug.ch
 +.ci-en.jp
++.cia.gov
 +.cici.com
 +.ciciai.com
 +.cienen.com
@@ -1472,6 +1475,7 @@ voice.telephony.goog
 +.dmm.com
 +.dns-dns.com
 +.dns-stuff.com
++.dns.sb
 +.dns04.com
 +.dns05.com
 +.dns1.us
@@ -1491,6 +1495,7 @@ voice.telephony.goog
 +.doctorvoice.org
 +.documentingreality.com
 +.dogfartnetwork.com
++.doh.sb
 +.dojin.com
 +.dok-forum.net
 +.dolc.de
@@ -1508,6 +1513,7 @@ voice.telephony.goog
 +.doosho.com
 +.doourbest.org
 +.dorjeshugden.com
++.dot.sb
 +.dotgov.gov
 +.dotplane.com
 +.dotsub.com
@@ -4025,8 +4031,10 @@ voice.telephony.goog
 +.oizoblog.com
 +.ok.ru
 +.okayfreedom.com
++.okcoin.com
 +.okex.com
 +.okk.tw
++.oklink.com
 +.okpool.me
 +.okx.com
 +.old-cat.net
@@ -4102,6 +4110,7 @@ voice.telephony.goog
 +.orzistic.org
 +.osfoora.com
 +.osha.gov
++.osmand.net
 +.osxdaily.com
 +.otcbtc.com
 +.otnd.org
@@ -6361,12 +6370,14 @@ voice.telephony.goog
 +.xml-training-guide.com
 +.xmovies.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--4gq171p.com
 +.xn--90wwvt03e.com
 +.xn--9iqy04a7fi01l.com
 +.xn--9pr62r24a.com
 +.xn--czq75pvv1aj5c.org
 +.xn--i2ru8q2qg.com
++.xn--kcrv3utim32hx9f6qe.com
 +.xn--ngstr-lra8j.com
 +.xn--noss43i.com
 +.xn--oiq.cc
