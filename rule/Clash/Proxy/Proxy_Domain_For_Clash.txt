@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-08 02:22:23
+# UPDATED: 2026-04-18 02:21:13
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6593
+# DOMAIN-SUFFIX: 6598
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6725
+# TOTAL: 6730
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -344,10 +344,10 @@ voice.telephony.goog
 +.animecrazy.net
 +.animeshippuuden.com
 +.aniscartujo.com
-+.annas-archive.in
-+.annas-archive.li
++.annas-archive.gd
++.annas-archive.gl
 +.annas-archive.org
-+.annas-archive.pm
++.annas-archive.pk
 +.annas-archive.se
 +.annatam.com
 +.anobii.com
@@ -497,6 +497,7 @@ voice.telephony.goog
 +.avg.com
 +.avgle.com
 +.avidemux.org
++.avistaz.to
 +.avmo.pw
 +.avmoo.com
 +.avmoo.net
@@ -1250,6 +1251,7 @@ voice.telephony.goog
 +.cpu-monkey.com
 +.cq99.us
 +.crackle.com
++.crashlytics.com
 +.crazypool.org
 +.crazys.cc
 +.crazyshit.com
@@ -3574,6 +3576,7 @@ voice.telephony.goog
 +.missav.com
 +.missav.ws
 +.mist.vip
++.mistral.ai
 +.mit.edu
 +.mitao.com.tw
 +.mitbbs.com
@@ -4080,6 +4083,7 @@ voice.telephony.goog
 +.ooyala.com
 +.open.com.hk
 +.openallweb.com
++.openart.ai
 +.openbase.com
 +.opencritic.com
 +.opendemocracy.net
@@ -4725,6 +4729,7 @@ voice.telephony.goog
 +.sb-cd.com
 +.sbme.me
 +.sbs.com.au
++.sbti.unun.dev
 +.scasino.com
 +.scdn.co
 +.schema.org
