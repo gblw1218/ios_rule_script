@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-18 02:20:53
+# UPDATED: 2026-04-30 02:32:31
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33732
+# DOMAIN-SUFFIX: 33757
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34009
+# TOTAL: 34034
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -881,6 +881,7 @@ login.microsoftonline.com
 .adguard.info
 .adguard.io
 .adguardaccount.com
+.adguardcdn.com
 .adguardvpn.com
 .adhelpnews.com
 .adidas-archive.org
@@ -1146,6 +1147,7 @@ login.microsoftonline.com
 .agemys.org
 .agendaweek.com
 .agenet.ac.uk
+.agentclientprotocol.com
 .agilebits.com
 .agocg.ac.uk
 .agoogleaday.com
@@ -2304,6 +2306,7 @@ login.microsoftonline.com
 .apu.ac.uk
 .apuc-scot.ac.uk
 .apyle.com
+.aqdlt.net
 .aqmen.ac.uk
 .aquinas.ac.uk
 .ar.hao123.com
@@ -4836,6 +4839,7 @@ login.microsoftonline.com
 .builtfromebay.com
 .bukkake-jav.com
 .bukkake.link
+.bululusexdoll.com
 .bumpshare.com
 .bumptop.ca
 .bumptop.com
@@ -6366,6 +6370,7 @@ login.microsoftonline.com
 .crest.ac.uk
 .crestresearch.ac.uk
 .crew.ac.uk
+.crewai.com
 .crfr.ac.uk
 .crh.ac.uk
 .cri.ac.uk
@@ -12079,6 +12084,7 @@ login.microsoftonline.com
 .hrsaz.com
 .hrsfc.ac.uk
 .hrtek.ru
+.hrtsea.com
 .hsad.ac.uk
 .hsbc-alternatives.de
 .hsbc-transactionservices.de
@@ -12765,6 +12771,7 @@ login.microsoftonline.com
 .imstagram.com
 .imt.ac.uk
 .imtagram.com
+.imtintl.com
 .imzog.com
 .inaporn.com
 .inasian.club
@@ -14349,6 +14356,7 @@ login.microsoftonline.com
 .landmap.ac.uk
 .landmarks.ac.uk
 .landscape.ac.uk
+.langchain.com
 .langdoncollege.ac.uk
 .langpol.ac.uk
 .langside.ac.uk
@@ -14360,7 +14368,6 @@ login.microsoftonline.com
 .lanik.us
 .lanmdh.net
 .lanniser-ylo.shop
-.lantern.io
 .lanternal.com
 .laosijifuli9009.top
 .laowang.vip
@@ -14780,6 +14787,7 @@ login.microsoftonline.com
 .lmmbtc.com
 .lms.ac.uk
 .lms01.com
+.lmstudio.ai
 .lmu.ac.uk
 .lnat.ac.uk
 .lncn.org
@@ -16108,6 +16116,7 @@ login.microsoftonline.com
 .minim.ac.uk
 .minimarkham.ca
 .minimarkham.com
+.minimax.io
 .minimoncton.ca
 .minimoncton.com
 .minimontrealcentre.ca
@@ -18180,6 +18189,7 @@ login.microsoftonline.com
 .olf.ac.uk
 .oli-school.com
 .oli.ac.uk
+.ollama.com
 .omafotze.com
 .omagh.ac.uk
 .omaghcollege.ac.uk
@@ -19112,6 +19122,7 @@ login.microsoftonline.com
 .placesdocs.com
 .planetminecraft.com
 .planetsuzy.org
+.plannotator.ai
 .plansondemand.com
 .plant-phenomics.ac.uk
 .plantsvszombies2.com
@@ -19843,6 +19854,7 @@ login.microsoftonline.com
 .ptt2.cc
 .ptt3.cc
 .ptzwx.com
+.pu82.vip
 .pub.dev
 .pubg.com
 .public-sex-porn.com
@@ -20563,7 +20575,6 @@ login.microsoftonline.com
 .roblox.cl
 .roblox.co.jp
 .roblox.co.uk
-.roblox.com
 .roblox.de
 .roblox.dk
 .roblox.eu
@@ -21089,6 +21100,7 @@ login.microsoftonline.com
 .scope-uk.ac.uk
 .scopic.ac.uk
 .score.ac.uk
+.scorecardresearch.com
 .scoreclassics.com
 .scorediscounts.club
 .scoregroup.com
@@ -23987,6 +23999,7 @@ login.microsoftonline.com
 .twirl.ac.uk
 .twistedlinks.net
 .twistys.com
+.twitchcon.com
 .twitchsvc.net
 .twitcomike.jp
 .twitter.biz
@@ -25436,6 +25449,7 @@ login.microsoftonline.com
 .warwickequine.ac.uk
 .warwickhri.ac.uk
 .warwickshire.ac.uk
+.wasdj.com
 .washa.tv
 .washingtondcbmw.com
 .waskucity.com
@@ -26360,6 +26374,7 @@ login.microsoftonline.com
 .xtracloud.net
 .xtubebdsm.com
 .xtubezoo.com
+.xu97.vip
 .xujan.com
 .xuxaverso.com.br
 .xv-ru.com
@@ -27133,6 +27148,7 @@ login.microsoftonline.com
 .ysmass.com
 .ysmeal.com
 .ysmeat.com
+.ysmeet.com
 .ysmelf.com
 .ysmere.com
 .ysmuch.com
@@ -27769,6 +27785,7 @@ login.microsoftonline.com
 .asianspiss.com
 .asianwomensfilm.de
 .asiaone.com
+.asiasociety.org
 .asiatgp.com
 .asiatoday.us
 .ask.com
@@ -27911,6 +27928,7 @@ login.microsoftonline.com
 .beijingzx.org
 .belamionline.com
 .bell.wiki
+.bellingcat.com
 .bemywife.cc
 .beric.me
 .berlinerbericht.de
@@ -30468,6 +30486,7 @@ login.microsoftonline.com
 .lamnia.co.uk
 .lamrim.com
 .landofhope.tv
+.lantern.io
 .lantosfoundation.org
 .laogai.org
 .laogairesearch.org
@@ -31827,6 +31846,7 @@ login.microsoftonline.com
 .rateyourmusic.com
 .rationalwiki.org
 .rawgit.com
+.rawstory.com
 .razyboard.com
 .rcinet.ca
 .rd.com
@@ -31845,6 +31865,7 @@ login.microsoftonline.com
 .reason.com
 .rebatesrule.net
 .recaptcha.net
+.recordedfuture.com
 .recordhistory.org
 .recovery.org.tw
 .recoveryversion.com.tw
@@ -31908,6 +31929,7 @@ login.microsoftonline.com
 .rmjdw.com
 .rmjdw132.info
 .roadshow.hk
+.roblox.com
 .roboforex.com
 .robustnessiskey.com
 .rocket-inc.net
@@ -32549,6 +32571,7 @@ login.microsoftonline.com
 .teachparentstech.org
 .teamamericany.com
 .teamviewer.com
+.techbang.com
 .techcrunch.com
 .technews.tw
 .technorati.com
@@ -32640,6 +32663,7 @@ login.microsoftonline.com
 .thewgo.org
 .thewirechina.com
 .theync.com
+.thinkchina.sg
 .thinkgeek.com
 .thinkingtaiwan.com
 .thirdmill.org
@@ -33114,6 +33138,7 @@ login.microsoftonline.com
 .uploadstation.com
 .upmedia.mg
 .uproxy.org
+.upsangel.com
 .uptodown.com
 .upwill.org
 .upwork.com
