@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-30 02:32:53
+# UPDATED: 2026-06-08 02:31:09
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6608
+# DOMAIN-SUFFIX: 6656
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6740
+# TOTAL: 6788
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -78,6 +78,7 @@ voice.telephony.goog
 +.228.net.tw
 +.233abc.com
 +.233v2.com
++.24hbook.com
 +.24hrs.ca
 +.24smile.org
 +.25u.com
@@ -188,6 +189,7 @@ voice.telephony.goog
 +.accountkit.com
 +.aceros-de-hispania.com
 +.acevpn.com
++.acg.mn
 +.acg.rip
 +.acg18.me
 +.acgbox.org
@@ -448,6 +450,7 @@ voice.telephony.goog
 +.arunachalforests.gov.in
 +.arvanstorage.ir
 +.arweave.org
++.as.mr
 +.asacp.org
 +.asdfg.jp
 +.asg.to
@@ -547,6 +550,7 @@ voice.telephony.goog
 +.bangdream.space
 +.bangkokpost.com
 +.bangumi.moe
++.bangumi.tv
 +.bangyoulater.com
 +.bankmobilevibe.com
 +.bannednews.org
@@ -632,6 +636,7 @@ voice.telephony.goog
 +.beyondfirewall.com
 +.bfnn.org
 +.bfsh.hk
++.bgm.tv
 +.bgme.me
 +.bgvpn.com
 +.bianlei.com
@@ -697,6 +702,7 @@ voice.telephony.goog
 +.blacklogic.com
 +.blackmagicdesign.com
 +.blackvpn.com
++.bleepingcomputer.com
 +.blewpass.com
 +.blingblingsquad.net
 +.blinkx.com
@@ -756,6 +762,7 @@ voice.telephony.goog
 +.books.com.tw
 +.booktopia.com.au
 +.bookwalker.com.tw
++.boomplay.com
 +.boomssr.com
 +.bootstrapcdn.com
 +.borgenmagazine.com
@@ -1013,6 +1020,7 @@ voice.telephony.goog
 +.cherrysave.com
 +.chhongbi.org
 +.chicagoncmtv.com
++.chii.in
 +.china-mmm.jp.net
 +.china-mmm.net
 +.china-mmm.sa.com
@@ -1088,6 +1096,7 @@ voice.telephony.goog
 +.chinman.net
 +.chithu.org
 +.chobit.cc
++.chonglangtv.org
 +.chosun.com
 +.chrdnet.com
 +.christianfreedom.org
@@ -1288,6 +1297,7 @@ voice.telephony.goog
 +.ctfriend.net
 +.ctinets.com
 +.ctinews.com
++.ctinsider.com
 +.ctitv.com.tw
 +.ctowc.org
 +.cts.com.tw
@@ -1373,6 +1383,7 @@ voice.telephony.goog
 +.dashlane.com
 +.dastrassi.org
 +.data-vocabulary.org
++.data18.com
 +.datalabour.com
 +.daum.net
 +.david-kilgour.com
@@ -1534,6 +1545,7 @@ voice.telephony.goog
 +.doujincafe.com
 +.dowei.org
 +.dowjones.com
++.dowjones.io
 +.download.dappcdn.com
 +.dphk.org
 +.dpool.top
@@ -1555,6 +1567,7 @@ voice.telephony.goog
 +.dsmtp.com
 +.dssott.com
 +.dstk.dk
++.dt18.com
 +.dtdns.net
 +.dtiblog.com
 +.dtic.mil
@@ -1644,6 +1657,7 @@ voice.telephony.goog
 +.edgekey.net
 +.edgesuite.net
 +.edicypages.com
++.edigest.hk
 +.edmontonservice.com
 +.edns.biz
 +.edoors.com
@@ -1781,6 +1795,7 @@ voice.telephony.goog
 +.f-droid.org
 +.f2pool.com
 +.f8.com
++.f95zone.to
 +.fabric.io
 +.faceless.me
 +.facesofnyfw.com
@@ -2119,6 +2134,7 @@ voice.telephony.goog
 +.fzlm.net
 +.g-area.org
 +.g-queen.com
++.g.ai
 +.g.co
 +.g.kfd.me
 +.g0v.social
@@ -2181,6 +2197,7 @@ voice.telephony.goog
 +.geekheart.info
 +.gekikame.com
 +.gelbooru.com
++.gencraft.com
 +.generated.photos
 +.geni.us
 +.genius.com
@@ -2506,6 +2523,7 @@ voice.telephony.goog
 +.hicairo.com
 +.hiccears.com
 +.hidden-advent.org
++.hiddify.com
 +.hide.me
 +.hidecloud.com
 +.hidein.net
@@ -2533,6 +2551,7 @@ voice.telephony.goog
 +.hitbtc.com
 +.hitomi.la
 +.hitun.io
++.hive.blog
 +.hiveon.net
 +.hiwifi.com
 +.hizb-ut-tahrir.info
@@ -2833,6 +2852,7 @@ voice.telephony.goog
 +.inf.news
 +.info-graf.fr
 +.informer.com
++.infosec.exchange
 +.infura.io
 +.ingress.com
 +.inherit.live
@@ -3103,6 +3123,7 @@ voice.telephony.goog
 +.karmapa-teachings.org
 +.karmapa.org
 +.kat.cr
++.kathmandupost.com
 +.kawaiikawaii.jp
 +.kawase.com
 +.kba-tx.org
@@ -3227,6 +3248,7 @@ voice.telephony.goog
 +.lematin.ch
 +.lemonde.fr
 +.lenwhite.com
++.leonardo.ai
 +.lerosua.org
 +.lesoir.be
 +.lester850.info
@@ -3249,6 +3271,7 @@ voice.telephony.goog
 +.liberal.org.hk
 +.libertysculpturepark.com
 +.libertytimes.com.tw
++.libgen.is
 +.library-access.sk
 +.libraryinformationtechnology.com
 +.libredd.it
@@ -3427,6 +3450,7 @@ voice.telephony.goog
 +.marxist.com
 +.marxist.net
 +.marxists.org
++.mas.to
 +.mash.to
 +.mashable.com
 +.maskedip.com
@@ -3464,6 +3488,7 @@ voice.telephony.goog
 +.mediachinese.com
 +.mediafire.com
 +.mediafreakcity.com
++.mediamatters.org
 +.mediawiki.org
 +.medium.com
 +.meee.com.tw
@@ -3594,6 +3619,7 @@ voice.telephony.goog
 +.mizzmona.com
 +.mji.rip
 +.mjj.rip
++.mjj.today
 +.mk5000.com
 +.mlc.ai
 +.mlcool.com
@@ -3653,6 +3679,7 @@ voice.telephony.goog
 +.movements.org
 +.moves-export.com
 +.moviefap.com
++.mozilla.ai
 +.mozilla.org
 +.moztw.org
 +.mp3buscador.com
@@ -3808,6 +3835,7 @@ voice.telephony.goog
 +.ned.org
 +.nekoslovakia.net
 +.neo-miracle.com
++.neodb.social
 +.neoforged.net
 +.neowin.net
 +.nephobox.com
@@ -3852,12 +3880,14 @@ voice.telephony.goog
 +.newscn.org
 +.newsdetox.ca
 +.newsdh.com
++.newshub.co.nz
 +.newsmax.com
 +.newspeak.cc
 +.newstamago.com
 +.newstapa.org
 +.newstarnet.com
 +.newstatesman.com
++.newstimes.com
 +.newsweek.com
 +.newtaiwan.com.tw
 +.newtalk.tw
@@ -3878,6 +3908,8 @@ voice.telephony.goog
 +.nflximg.net
 +.nflxso.net
 +.nflxvideo.net
++.nfsc.press
++.nfscofficial.com
 +.nftstorage.link
 +.ng.mil
 +.nga.mil
@@ -4134,6 +4166,7 @@ voice.telephony.goog
 +.over-blog.com
 +.overcast.fm
 +.overdaily.org
++.overdrive.com
 +.overplay.net
 +.ovi.com
 +.ovpn.com
@@ -4228,6 +4261,7 @@ voice.telephony.goog
 +.penchinese.com
 +.penchinese.net
 +.pendrivelinux.com
++.penguin.com.au
 +.pengyulong.com
 +.penisbot.com
 +.pentalogic.net
@@ -4551,6 +4585,7 @@ voice.telephony.goog
 +.ranxiang.com
 +.ranyunfei.com
 +.rapbull.net
++.raphael.app
 +.rapidgator.net
 +.rapidmoviez.com
 +.rapidvpn.com
@@ -4674,9 +4709,11 @@ voice.telephony.goog
 +.rthk.org.hk
 +.rti.org.tw
 +.rti.tw
++.rts.ch
 +.rtycminnesota.org
 +.ruanyifeng.com
 +.rukor.org
++.rule34.us
 +.rule34.xxx
 +.rule34video.com
 +.rumble.com
@@ -4869,6 +4906,7 @@ voice.telephony.goog
 +.siddharthasintent.org
 +.sidelinesnews.com
 +.sidelinessportseatery.com
++.sider.ai
 +.sierrafriendsoftibet.org
 +.signal.org
 +.sijihuisuo.club
@@ -5010,6 +5048,7 @@ voice.telephony.goog
 +.sosad.fun
 +.sosreader.com
 +.sostibet.org
++.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.soul-plus.net
@@ -5177,6 +5216,7 @@ voice.telephony.goog
 +.suroot.com
 +.surrenderat20.net
 +.suyangg.com
++.suyingtv.com
 +.svsfx.com
 +.swagbucks.com
 +.swapspace.co
@@ -5332,6 +5372,7 @@ voice.telephony.goog
 +.tgfcer.com
 +.tgstat.com
 +.thaicn.com
++.the-sun.com
 +.theatlantic.com
 +.theatrum-belli.com
 +.theaustralian.com.au
@@ -5381,6 +5422,7 @@ voice.telephony.goog
 +.thetvdb.com
 +.theverge.com
 +.thevivekspot.com
++.theweek.com
 +.thewgo.org
 +.thewirechina.com
 +.theync.com
@@ -5674,6 +5716,7 @@ voice.telephony.goog
 +.tvbanywhere.com
 +.tvboxnow.com
 +.tvbs.com.tw
++.tvdy1.com
 +.tvider.com
 +.tvmost.com.hk
 +.tvplayvideos.com
@@ -5817,6 +5860,7 @@ voice.telephony.goog
 +.ultravpn.fr
 +.ultraxs.com
 +.ulyssesapp.com
++.umap.openstreetmap.fr
 +.umich.edu
 +.unblock-us.com
 +.unblockdmm.com
@@ -5939,6 +5983,7 @@ voice.telephony.goog
 +.vcf-online.org
 +.vcfbuilder.org
 +.vds.rightster.com
++.veed.io
 +.vegasred.com
 +.velkaepocha.sk
 +.venbbs.com
@@ -6015,6 +6060,7 @@ voice.telephony.goog
 +.vot.org
 +.vovo2000.com
 +.vox-cdn.com
++.vox.com
 +.voxer.com
 +.voy.com
 +.vpn.ac
@@ -6289,6 +6335,7 @@ voice.telephony.goog
 +.woyaolian.org
 +.wozy.in
 +.wp.com
++.wplace.live
 +.wpoforum.com
 +.wqyd.org
 +.wr.pvp.net
@@ -6569,6 +6616,7 @@ voice.telephony.goog
 +.zhanbin.net
 +.zhangboli.net
 +.zhangtianliang.com
++.zhangzhehan.net
 +.zhanlve.org
 +.zhenghui.org
 +.zhenlibu.info
