@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-04 02:33:20
+# UPDATED: 2026-08-04 03:25:58
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6748
+# DOMAIN-SUFFIX: 6757
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6888
+# TOTAL: 6897
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -36,6 +36,7 @@
 .18board.com
 .18board.info
 .18comic.org
+.18comic.vip
 .18mh.net
 .18onlygirls.com
 .18p2p.com
@@ -981,6 +982,7 @@
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .certificate-transparency.org
 .cex.io
 .cfhks.org.hk
@@ -1109,6 +1111,7 @@
 .chromercise.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .chuang-yen.org
 .chubold.com
 .chubun.com
@@ -1122,6 +1125,7 @@
 .cienen.com
 .cineastentreff.de
 .cipfg.org
+.circle19.org
 .circlethebayfortibet.org
 .cirosantilli.com
 .citizencn.com
@@ -1145,6 +1149,7 @@
 .ck101.com
 .cl.ly
 .clarionproject.org
+.clashyun.com
 .classicalguitarblog.net
 .claude.com
 .clb.org.hk
@@ -3153,6 +3158,7 @@
 .kanzhongguo.eu
 .kaotic.com
 .karayou.com
+.kards.com
 .karkhung.com
 .karmapa-teachings.org
 .karmapa.org
@@ -3730,7 +3736,6 @@
 .movements.org
 .moves-export.com
 .moviefap.com
-.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp3buscador.com
@@ -4053,6 +4058,7 @@
 .ntdtv.jp
 .ntdtv.ru
 .ntdtvla.com
+.nthlink.com
 .ntrfun.com
 .ntu.edu.tw
 .nu.nl
@@ -4618,7 +4624,6 @@
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
-.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -5300,6 +5305,7 @@
 .synergyse.com
 .syosetu.com
 .sysresccd.org
+.sysub.com
 .sytes.net
 .syx86.com
 .szbbs.net
@@ -5657,6 +5663,7 @@
 .toh.info
 .token.im
 .tokenlon.im
+.tokenplus.app
 .tokyo-247.com
 .tokyo-hot.com
 .tokyocn.com
@@ -5729,6 +5736,7 @@
 .truthontour.org
 .truthsocial.com
 .truveo.com
+.tryai.dev
 .tryheart.jp
 .tsctv.net
 .tsemtulku.com
@@ -6037,6 +6045,7 @@
 .uygur.org
 .uymaarip.com
 .v.gd
+.v.recipes
 .v.roucdn
 .v2.help
 .v2.hysteria.network
@@ -6437,7 +6446,6 @@
 .wuyanblog.com
 .wwe.com
 .wwitv.com
-.www.clashverge.dev
 .www.lamenhu.com
 .www.orchidbbs.com
 .www.taup.org.tw
@@ -6689,6 +6697,7 @@
 .zengjinyan.org
 .zenmate.com
 .zenmate.com.ru
+.zenmux.ai
 .zerohedge.com
 .zeronet.io
 .zeutch.com
